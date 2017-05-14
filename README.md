@@ -1,6 +1,6 @@
 # neocities-cli
 
-experimental [neocities](neocities.org) command line interface
+experimental [neocities](https://neocities.org) command line interface
 
 ## Install
 

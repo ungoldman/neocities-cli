@@ -33,7 +33,7 @@ COMMANDS:
 
 Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
 
-This is a [non-fancy node](https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node) [module party](http://module.party/).
+This is a [non-fancy node](https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node#readme) [module party](http://module.party/).
 
 ## License
 
